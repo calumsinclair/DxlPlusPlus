@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/setGoalPosition.dir/examples/setGoalPosition.cpp.o -o setGoalPosition   -L/home/caz/Dxl2/lib  -Wl,-rpath,/home/caz/Dxl2/build:/home/caz/Dxl2/lib libdxlpp.so -ldxl_x64_cpp 

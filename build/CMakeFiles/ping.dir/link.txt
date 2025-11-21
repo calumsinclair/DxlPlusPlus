@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/ping.dir/examples/ping.cpp.o -o ping   -L/home/caz/Dxl2/lib  -Wl,-rpath,/home/caz/Dxl2/build:/home/caz/Dxl2/lib libdxlpp.so -ldxl_x64_cpp 

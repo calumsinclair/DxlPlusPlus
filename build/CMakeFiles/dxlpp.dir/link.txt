@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libdxlpp.so -o libdxlpp.so CMakeFiles/dxlpp.dir/src/DxlMotor.cpp.o CMakeFiles/dxlpp.dir/src/DxlComs.cpp.o   -L/home/caz/Dxl2/lib  -Wl,-rpath,/home/caz/Dxl2/lib -ldxl_x64_cpp 

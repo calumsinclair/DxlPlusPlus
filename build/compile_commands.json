@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/home/caz/Dxl2/build",
+  "command": "/usr/bin/g++ -Ddxlpp_EXPORTS -I/home/caz/Dxl2/include -I/home/caz/Dxl2/lib/include -g -std=gnu++17 -fPIC -o CMakeFiles/dxlpp.dir/src/DxlMotor.cpp.o -c /home/caz/Dxl2/src/DxlMotor.cpp",
+  "file": "/home/caz/Dxl2/src/DxlMotor.cpp",
+  "output": "CMakeFiles/dxlpp.dir/src/DxlMotor.cpp.o"
+},
+{
+  "directory": "/home/caz/Dxl2/build",
+  "command": "/usr/bin/g++ -Ddxlpp_EXPORTS -I/home/caz/Dxl2/include -I/home/caz/Dxl2/lib/include -g -std=gnu++17 -fPIC -o CMakeFiles/dxlpp.dir/src/DxlComs.cpp.o -c /home/caz/Dxl2/src/DxlComs.cpp",
+  "file": "/home/caz/Dxl2/src/DxlComs.cpp",
+  "output": "CMakeFiles/dxlpp.dir/src/DxlComs.cpp.o"
+},
+{
+  "directory": "/home/caz/Dxl2/build",
+  "command": "/usr/bin/g++  -I/home/caz/Dxl2/include -I/home/caz/Dxl2/lib/include -g -std=gnu++17 -fPIE -o CMakeFiles/ping.dir/examples/ping.cpp.o -c /home/caz/Dxl2/examples/ping.cpp",
+  "file": "/home/caz/Dxl2/examples/ping.cpp",
+  "output": "CMakeFiles/ping.dir/examples/ping.cpp.o"
+},
+{
+  "directory": "/home/caz/Dxl2/build",
+  "command": "/usr/bin/g++  -I/home/caz/Dxl2/include -I/home/caz/Dxl2/lib/include -g -std=gnu++17 -fPIE -o CMakeFiles/setGoalPosition.dir/examples/setGoalPosition.cpp.o -c /home/caz/Dxl2/examples/setGoalPosition.cpp",
+  "file": "/home/caz/Dxl2/examples/setGoalPosition.cpp",
+  "output": "CMakeFiles/setGoalPosition.dir/examples/setGoalPosition.cpp.o"
+}
+]
